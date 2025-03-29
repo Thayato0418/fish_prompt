@@ -1,2 +1,2 @@
 # fish_prompt
-~/.config/fish/functions にfish_proompt.fish に書く
+~/.config/fish/functions にfish_prompt.fish に書く
